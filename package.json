@@ -27,7 +27,7 @@
   "dependencies": {
     "@actions/core": "^1.1.1",
     "@actions/github": "^4.0.0",
-    "tweetsodium": "0.0.5"
+    "tweetsodium": "0.0.6"
   },
   "devDependencies": {
     "@zeit/ncc": "^0.22.3",
